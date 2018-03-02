@@ -1,3 +1,6 @@
 [submodule "themes/minimal"]
 	path = themes/minimal
 	url = https://github.com/calintat/minimal.git
+[submodule "content/post/AlgorithmsPOST"]
+	path = content/post/AlgorithmsPOST
+	url = git@github.com:xwdeng/AlgorithmsPOST.git
