@@ -1,3 +1,3 @@
 ../hugo.exe
 
-../hugo.exe server
+../hugo.exe server -w --disableFastRender 
