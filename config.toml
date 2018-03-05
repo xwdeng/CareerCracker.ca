@@ -8,14 +8,18 @@ themesdir = "themes"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 
+disqusShortname = "careercracker"
+
 [params]
-  editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
+  editURL = ""
   description = "Documentation for Hugo Learn Theme"
   author = "Mathieu Cornic"
   showVisitedLinks = true
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
+
+
 
 # [Languages]
 # [Languages.en]
