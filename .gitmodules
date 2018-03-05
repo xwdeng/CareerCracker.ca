@@ -1,6 +1,6 @@
 [submodule "content"]
 	path = content
-	url = git@github.com:xwdeng/AlgorithmsPOST.git
+	url = https://github.com/xwdeng/AlgorithmsPOST.git
 [submodule "themes/learn"]
 	path = themes/learn
 	url = https://github.com/matcornic/hugo-theme-learn
