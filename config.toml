@@ -1,8 +1,8 @@
-baseURL = "localhost:1313/test"
+baseURL = "localhost:1313"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 
-title = "Hugo Learn Documentation"
+title = "Cracking Algorithms"
 theme = "learn"
 themesdir = "themes"
 metaDataFormat = "yaml"
